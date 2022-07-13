@@ -1,0 +1,24 @@
+﻿  main.cpp
+d:\yolo_mark-master\main.cpp(144): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(145): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(151): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(295): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(295): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+d:\yolo_mark-master\main.cpp(303): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+d:\yolo_mark-master\main.cpp(306): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(354): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(497): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(497): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\yolo_mark-master\main.cpp(570): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(570): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\yolo_mark-master\main.cpp(645): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(645): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\yolo_mark-master\main.cpp(706): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(706): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+d:\yolo_mark-master\main.cpp(707): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\yolo_mark-master\main.cpp(707): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+d:\yolo_mark-master\main.cpp(814): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 1166 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  yolo_mark.vcxproj -> D:\Yolo_mark-master\x64\Release\yolo_mark.exe
